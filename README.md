@@ -1,5 +1,8 @@
 # README
 
+## Demo
+![](./crd-event.png)
+
 ## Concepts
 - k8s: https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/
 - bare-metal server -> docker prevision -> compute node(s) -> cluster
