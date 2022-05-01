@@ -1,7 +1,7 @@
 # README
 
 ## Demo
-![](./crd-event.png)
+![](./img/crd-event.png)
 
 ## Concepts
 - k8s: https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/
@@ -26,7 +26,7 @@
     minikube start # start minikube
     minikube dashboard # start dashboard
     ```
-    ![](./minikube-dashboard.png)
+    ![](./img/minikube-dashboard.png)
 - Install `kopf`
     - https://kopf.readthedocs.io/en/stable/install/
     - commands:
